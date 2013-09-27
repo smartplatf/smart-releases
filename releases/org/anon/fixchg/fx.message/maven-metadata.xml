@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.anon.fixchg</groupId>
+  <artifactId>fx.message</artifactId>
+  <versioning>
+    <release>1.0</release>
+    <versions>
+      <version>1.0</version>
+    </versions>
+    <lastUpdated>20130927154025</lastUpdated>
+  </versioning>
+</metadata>
