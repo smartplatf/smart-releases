@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.anon.smart</groupId>
+  <artifactId>sm.d2cache</artifactId>
+  <version>2.2-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20141212.070807</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20141212070807</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>2.2-20141212.070807-1</value>
+        <updated>20141212070807</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>2.2-20141212.070807-1</value>
+        <updated>20141212070807</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>tests</classifier>
+        <extension>jar</extension>
+        <value>2.2-20141212.070807-1</value>
+        <updated>20141212070807</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
